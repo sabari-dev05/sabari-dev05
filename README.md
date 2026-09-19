@@ -23,7 +23,7 @@
 
 ### Familiar WebDev stack
 **Platforms**
-- <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="18" height="18" alt="VS Code" valign="middle" /> **Visual Studio Code**
+- <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="18" height="18" alt="VS Code" align="center" /> **Visual Studio Code**
 
 **Tech stack**
 - <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="18" height="18" alt="Flask" valign="middle" /> **Flask**
@@ -35,7 +35,7 @@
 - <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="18" height="18" alt="Ubuntu" valign="middle" /> **Ubuntu**
 
 **Windows**
-- <img src="https://cdn.simpleicons.org/windows11/0078D4" width="18" height="18" alt="Windows" valign="middle" /> **Windows 7 / 10 / 11**
+- <img src="https://cdn.simpleicons.org/windows11/0078D4" width="18" height="18" alt="Windows" align="center" /> **Windows 7 / 10 / 11**
 
 
 
