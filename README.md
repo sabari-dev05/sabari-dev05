@@ -12,10 +12,10 @@
 
 ### Tech Stack & Tools
 
-#### Machine Learning & Data Science
+#### 🤖 Machine Learning & Data Science
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Platforms** | <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="18" height="18" alt="Google Colab" style="vertical-align: middle;" /> **Google Colab** &nbsp;&bull;&nbsp; <img src="https://cdn.simpleicons.org/jupyter/F37626" width="18" height="18" alt="Jupyter" style="vertical-align: middle;" /> **Jupyter Notebook** |
+| **Platforms** | <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="18" height="18" alt="Google Colab" style="vertical-align: middle;" /> **Google Colab** &nbsp;&bull;&nbsp; <img src="https://cdn.simpleicons.org/jupyter/F37626" width="18" height="18" alt="Jupyter" style="vertical-align: middle;" /> **Jupyter Notebook** &nbsp;&bull;&nbsp; <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="18" height="18" alt="Kaggle" style="vertical-align: middle;" /> **Kaggle** |
 | **Tech stack** | <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="18" height="18" alt="NumPy" style="vertical-align: middle;" /> **NumPy** &nbsp;&bull;&nbsp; <img src="https://cdn.simpleicons.org/pandas/FFFFFF" width="18" height="18" alt="Pandas" style="vertical-align: middle;" /> **Pandas** &nbsp;&bull;&nbsp; <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="18" height="18" alt="scikit-learn" style="vertical-align: middle;" /> **scikit-learn** &nbsp;&bull;&nbsp; <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="18" height="18" alt="PyTorch" style="vertical-align: middle;" /> **PyTorch** |
 
 #### Web Development
