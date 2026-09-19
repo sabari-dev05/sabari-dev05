@@ -11,33 +11,31 @@
 - Quiz Master
 
 ### Familiar ML stack
-- Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Colab / Cloud" title="Google Colab" height="40" />
-  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" title="Jupyter Notebook" height="40" />
-</p>
+**Platforms**  
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="32" alt="Google Colab" />&nbsp;
+<img src="https://cdn.simpleicons.org/jupyter/F37626" height="32" alt="Jupyter" />
 
-- Tech stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,pytorch" alt="ML Stack" />
-</p>
+**Tech stack**  
+<img src="https://cdn.simpleicons.org/numpy/013243" height="32" alt="NumPy" />&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="32" alt="Pandas" />&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="32" alt="scikit-learn" />&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="32" alt="PyTorch" />
 
 ### Familiar WebDev stack
-- Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Visual Studio Code" height="40" />
-</p>
+**Platforms**  
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="32" alt="VS Code" />
 
-- Tech stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" height="40" />
-</p>
+**Tech stack**  
+<img src="https://cdn.simpleicons.org/flask/FFFFFF" height="32" alt="Flask" />
 
 ### Familiar OS
-- Linux & Windows
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fedora,debian,ubuntu,windows" alt="Operating Systems" />
-</p>
+**Linux**  
+<img src="https://cdn.simpleicons.org/fedora/51A2DA" height="32" alt="Fedora" />&nbsp;
+<img src="https://cdn.simpleicons.org/debian/A81D33" height="32" alt="Debian" />&nbsp;
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="32" alt="Ubuntu" />
+
+**Windows**  
+<img src="https://cdn.simpleicons.org/windows/0078D6" height="32" alt="Windows" />
 
 
 
