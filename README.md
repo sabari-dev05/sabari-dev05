@@ -12,30 +12,32 @@
 
 ### Familiar ML stack
 - Platforms
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Colab / Cloud" title="Google Colab" height="40" />
+  <img src="https://skillicons.dev/icons?i=jupyter" alt="Jupyter" title="Jupyter Notebook" height="40" />
+</p>
+
 - Tech stack
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,numpy,pandas,sklearn,pytorch" alt="ML Stack" />
+</p>
 
 ### Familiar WebDev stack
 - Platforms
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="Visual Studio Code" height="40" />
+</p>
+
 - Tech stack
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask" alt="Flask" title="Flask" height="40" />
+</p>
 
 ### Familiar OS
-- Linux
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-- Windows
-![Windows 7](https://img.shields.io/badge/Windows%207-00ADEF?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows10&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-
+- Linux & Windows
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fedora,debian,ubuntu,windows" alt="Operating Systems" />
+</p>
 
 
 
