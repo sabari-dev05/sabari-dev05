@@ -22,7 +22,7 @@
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Platforms** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18" height="18" style="vertical-align: middle;" /> **Visual Studio Code** |
-| **Tech stack** | <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="18" height="18" alt="Flask" style="vertical-align: middle;" /> **Flask** |
+| **Tech stack** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18" height="18" style="vertical-align: middle;" /> **HTML5** &nbsp;&bull;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18" height="18" style="vertical-align: middle;" /> **CSS3** &nbsp;&bull;&nbsp; <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="18" height="18" alt="Flask" style="vertical-align: middle;" /> **Flask** |
 
 #### Operating Systems
 | Distribution / OS | Technologies & Tools |
