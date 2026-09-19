@@ -11,31 +11,31 @@
 - Quiz Master
 
 ### Familiar ML stack
-**Platforms**  
-<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="32" alt="Google Colab" />&nbsp;
-<img src="https://cdn.simpleicons.org/jupyter/F37626" height="32" alt="Jupyter" />
+**Platforms**
+- <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="18" height="18" alt="Google Colab" valign="middle" /> **Google Colab**
+- <img src="https://cdn.simpleicons.org/jupyter/F37626" width="18" height="18" alt="Jupyter" valign="middle" /> **Jupyter Notebook**
 
-**Tech stack**  
-<img src="https://cdn.simpleicons.org/numpy/013243" height="32" alt="NumPy" />&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" height="32" alt="Pandas" />&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="32" alt="scikit-learn" />&nbsp;
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="32" alt="PyTorch" />
+**Tech stack**
+- <img src="https://cdn.simpleicons.org/numpy/013243" width="18" height="18" alt="NumPy" valign="middle" /> **NumPy**
+- <img src="https://cdn.simpleicons.org/pandas/150458" width="18" height="18" alt="Pandas" valign="middle" /> **Pandas**
+- <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="18" height="18" alt="scikit-learn" valign="middle" /> **scikit-learn**
+- <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="18" height="18" alt="PyTorch" valign="middle" /> **PyTorch**
 
 ### Familiar WebDev stack
-**Platforms**  
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="32" alt="VS Code" />
+**Platforms**
+- <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="18" height="18" alt="VS Code" valign="middle" /> **Visual Studio Code**
 
-**Tech stack**  
-<img src="https://cdn.simpleicons.org/flask/FFFFFF" height="32" alt="Flask" />
+**Tech stack**
+- <img src="https://cdn.simpleicons.org/flask/FFFFFF" width="18" height="18" alt="Flask" valign="middle" /> **Flask**
 
 ### Familiar OS
-**Linux**  
-<img src="https://cdn.simpleicons.org/fedora/51A2DA" height="32" alt="Fedora" />&nbsp;
-<img src="https://cdn.simpleicons.org/debian/A81D33" height="32" alt="Debian" />&nbsp;
-<img src="https://cdn.simpleicons.org/ubuntu/E95420" height="32" alt="Ubuntu" />
+**Linux**
+- <img src="https://cdn.simpleicons.org/fedora/51A2DA" width="18" height="18" alt="Fedora" valign="middle" /> **Fedora**
+- <img src="https://cdn.simpleicons.org/debian/A81D33" width="18" height="18" alt="Debian" valign="middle" /> **Debian**
+- <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="18" height="18" alt="Ubuntu" valign="middle" /> **Ubuntu**
 
-**Windows**  
-<img src="https://cdn.simpleicons.org/windows/0078D6" height="32" alt="Windows" />
+**Windows**
+- <img src="https://cdn.simpleicons.org/windows11/0078D4" width="18" height="18" alt="Windows" valign="middle" /> **Windows 7 / 10 / 11**
 
 
 
